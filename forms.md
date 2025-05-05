@@ -12,9 +12,9 @@ Recuerda guardar tu progreso en un repositorio de Git, así tendrás disponible 
 
 Todo lo descrito aquí es requerido en el mundo real pero **si en algún momento piensas "esto está muy difícil", toma un respiro** y analízalo desde otras perspectivas. Si no te sale a la primera, no te preocupes, La idea es que aprendas y practiques.
 
-### Nota importante
+## Nota importante
 
-Debes usar ajax al enviar los formularios.
+Debes usar AJAX al enviar los formularios.
 
 ## Reto de Super Saiyajin fase 1: Envío de datos
 
