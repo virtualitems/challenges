@@ -133,6 +133,14 @@ Ten en cuenta que el usuario puede eliminar contactos y el orden debe actualizar
 Al cargar la página del formulario, los contactos existentes deben mostrarse en el orden correcto.  
 
 **Reto adicional:**  
+Implementa formularios dinámicos anidados.  
+Cada conjunto de campos debe incluír un formulario dinámico de etiquetas.  
+Cada etiqueta es una única palabra sin espacios en blanco ni símbolos.  
+El usuario **puede agregar y eliminar etiquetas** pero no actualizar las etiquetas existentes.  
+Si el usuario agrega el mismo texto en varias etiquetas del mismo contacto, sólo se debe guardar una vez.  
+Al cargar la página del formulario, para los contactos existentes, las etiquetas deben mostrarse en el contacto correspondiente y en orden alfabético.  
+
+**Reto adicional:**  
 Agrega un campo opcional `avatar` para cargar una imagen asociada a cada contacto.  
 Valida el tipo de archivo y el tamaño máximo permitido.  
 Envía los datos del formulario en formato `multipart/form-data`.  
