@@ -12,6 +12,10 @@ Recuerda guardar tu progreso en un repositorio de Git, así tendrás disponible 
 
 Todo lo descrito aquí es requerido en el mundo real pero **si en algún momento piensas "esto está muy difícil", toma un respiro** y analízalo desde otras perspectivas. Si no te sale a la primera, no te preocupes, La idea es que aprendas y practiques.
 
+### Nota importante
+
+Debes usar ajax al enviar los formularios.
+
 ## Reto de Super Saiyajin fase 1: Envío de datos
 
 ![ssj1](https://static.wikia.nocookie.net/dragonball/images/2/2b/Goku_transforms_into_a_Super_Saiyan_for_the_first_time_%28Full_Color_Manga%29.png/revision/latest/scale-to-width/200)
