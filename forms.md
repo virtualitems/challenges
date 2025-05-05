@@ -10,7 +10,7 @@ Recuerda guardar tu progreso en un repositorio de Git, así tendrás disponible 
 
 **Ten en cuenta que para los retos adicionales es preferible que no modifiques el formulario original.** Copia el formulario o crea una nueva rama de git y trabajar en una versión alternativa.
 
-Todo lo descrito aquí es requerido en el mundo real pero **si en algún momento piensas "esto está muy difícil", toma un respiro** y analizalo desde otras perspectivas. Si no te sale a la primera, no te preocupes, La idea es que aprendas y practiques.
+Todo lo descrito aquí es requerido en el mundo real pero **si en algún momento piensas "esto está muy difícil", toma un respiro** y analízalo desde otras perspectivas. Si no te sale a la primera, no te preocupes, La idea es que aprendas y practiques.
 
 ## Reto de Super Saiyajin fase 1: Envío de datos
 
@@ -190,7 +190,7 @@ Recupera automáticamente el estado guardado y continúa desde el último paso c
 **Reto adicional:**  
 Si no existe, agrega el paso 3 de números de teléfono.  
 Agrega un formulario dinámico (ver reto 4) para cargar múltiples números de teléfono asociados al contacto.  
-Cada conjunto de campos debe incluir los campos `prefix` para el código de país y `number` para el número de teléfono.  
+Cada conjunto de campos debe incluir los campos `prefix` en forma de selector desplegable para el código de país y `number` para el número de teléfono.  
 Si guardas el estado parcial del formulario, guarda también los números de teléfono si el usuario los carga en el paso 3.  
 Si tienes el resumen final, muestra los números de teléfono en el resumen y la opción de volver a el paso 3 para editarlos.  
 
