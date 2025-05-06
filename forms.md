@@ -191,7 +191,7 @@ Solicita la información profesional: `job`, `company`.
 - Devuelve una respuesta indicando si la operación fue exitosa.
 
 **Recomendaciones:**
-- Agrega una barra de progreso o un indicador visual que muestre el avance del usuario en cada paso.
+- Agrega una barra de progreso o un indicador visual que muestre el avance del usuario.
 
 **Reto adicional:**  
 Al finalizar, muestra un resumen de todos los pasos con opción de editar cualquier paso desde ese resumen antes del envío final.
